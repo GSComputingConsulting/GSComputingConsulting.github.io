@@ -5,16 +5,16 @@
 layout: default
 ---
 
-# Soon
+# GSC2
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+**COMING SOON**
 
-## What's in it?
+<!--## What's in it?-->
 
-Soon is a single static page with a full-screen image, nothing more. Remember those *under construction* sites? The point is to show a quick message or a temporary contact page to your visitors. Use this template for a few hours to a few days while you are building your site in the background. Since the page comes with a Jekyll environment, you can host it for free on GitHub.
+GSCC is a digital transformation partner helping organizations like yours use technology and human-centered design to solve complex problems and create new opportunities. We partner with organizations all around the world to develop digital solutions that allow teams to work more efficiently and reach audiences more effectively.
 
 ***
 
-## Get started
+<!--## Get started-->
 
-[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
+<!--[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).-->
